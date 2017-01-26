@@ -1,0 +1,36 @@
+.col-xs-12{
+	background-color: #EEEEEE; 
+	margin-top: 10px;
+	margin-bottom: 30px;
+
+}
+
+body{
+	background-color: #AAAAAA;
+}
+
+#brand-name{
+	margin: 10px;
+	font-size: 2.0em;
+	font-family: Verdana; 
+
+}
+
+#menu-options{
+	
+	width: 100%;
+	background-color: #AAAAAA;
+}
+
+#nav-list li{
+	border: 1px, black;
+	background-color: #555;
+	font-size: 2em;
+	font-family: Helvetica, black;
+}
+
+a { 
+    color:orange;
+    text-decoration:none;
+}
+
